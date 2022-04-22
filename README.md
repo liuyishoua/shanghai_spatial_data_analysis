@@ -24,6 +24,8 @@ pip install -r requirements.txt
 If you can not install successfully, that must be the version conflict. So try to read this video [geopandas的安装](https://www.bilibili.com/video/BV1A5411a7xz?p=11).
 
 2. **Download the** [上海市出租车数据集](http://www.cse.ust.hk/scrg/taxi.tar.gz) **and put into ./data-sample/taxi_sh/\***.
+
+
 ![File position](./images/file_position.png)
 
 3. **Then, begin to learn according to the number's order of ipynb files. So let's begin from the shanghai_data_analysis_1.ipynb.**
@@ -45,7 +47,7 @@ If you can not install successfully, that must be the version conflict. So try t
 </p>
 
 <p align="center">
-  <img width="600" src="./images/video.gif" alt="video">
+  <img width="600" src="./images/video.mp4" alt="video">
 </p>
 <p align="center" >
   <b>3.The gif for postion distribution in each hour</b>
