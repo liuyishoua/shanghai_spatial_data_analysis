@@ -47,7 +47,7 @@ If you can not install successfully, that must be the version conflict. So try t
 </p>
 
 <p align="center">
-  <img width="600" src="./images/video.mp4" alt="video">
+  <img width="600" src="./images/video.gif" alt="video">
 </p>
 <p align="center" >
   <b>3.The gif for postion distribution in each hour</b>
