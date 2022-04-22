@@ -1,6 +1,6 @@
 # shanghai_spatial_data_analysis
 
-### Introduction
+## Introduction
 A standard procedure to deal with the spatial data (the taxi data of shanghai). We get the Shanghai's taxi data from [上海市出租车数据集](http://www.cse.ust.hk/scrg/taxi.tar.gz) (a open source dataset). 
 
 **In this project, you will learn**:
@@ -14,7 +14,7 @@ A standard procedure to deal with the spatial data (the taxi data of shanghai). 
 1. Data analysis tool: numpy, pandas, geopandas, shapely.
 2. Be patient, positive and keep going.
 
-### Run
+## Run
 
 To run the code efficiently on your computer, you shall do like below:
 1. **install the corresponding library**.
@@ -26,39 +26,41 @@ If you can not install successfully, that must be the version conflict. So try t
 2. **Download the** [上海市出租车数据集](http://www.cse.ust.hk/scrg/taxi.tar.gz) **and put into ./data-sample/taxi_sh/\***.
 ![File position](./images/file_position.png)
 
-### Figure show
+3. **Then, begin to learn according to the number's order of ipynb files. So let's begin from the shanghai_data_analysis_1.ipynb.**
+
+## Figure show
 
 <p align="center">
   <img width="600" src="./images/hour_count.png" alt="hour_count">
 </p>
 <p align="center" >
-  <b>Taxi's numbers for each hour</b>
+  <b>1.Taxi's numbers for each hour</b>
 </p>
 
 <p align="center">
   <img width="600" src="./images/hour0_distribution.png" alt="hour0_distribution">
 </p>
 <p align="center" >
-  <b>The position distribution of taxi in the early morning</b>
+  <b>2.The position distribution of taxi in the early morning</b>
 </p>
 
 <p align="center">
   <img width="600" src="./images/video.gif" alt="video">
 </p>
 <p align="center" >
-  <b>The gif for postion distribution in each hour</b>
+  <b>3.The gif for postion distribution in each hour</b>
 </p>
 
 <p align="center">
   <img width="600" src="./images/taxi_start2end.png" alt="taxi_start2end">
 </p>
 <p align="center" >
-  <b>Start to end distribution</b>
+  <b>4.Start to end distribution</b>
 </p>
 
 <p align="center">
   <img width="600" src="./images/region_distribution.png" alt="region_distribution">
 </p>
 <p align="center" >
-  <b>Heat map for position distribution of taxi</b>
+  <b>5.Heat map for position distribution of taxi</b>
 </p>
