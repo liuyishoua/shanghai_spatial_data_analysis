@@ -1,0 +1,9 @@
+numpy
+pandas
+tqdm
+seaborn
+fiona
+shapely
+pyproj
+rtree
+geopandas
