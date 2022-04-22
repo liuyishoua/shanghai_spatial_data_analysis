@@ -31,18 +31,34 @@ If you can not install successfully, that must be the version conflict. So try t
 <p align="center">
   <img width="600" src="./images/hour_count.png" alt="hour_count">
 </p>
-<p align="center">
-  Taxi's numbers for each hour
+<p align="center" >
+  <b>Taxi's numbers for each hour</b>
 </p>
 
-![hour0_distribution](./images/hour0_distribution.png)
-The position distribution of taxi in the early morning
+<p align="center">
+  <img width="600" src="./images/hour0_distribution.png" alt="hour0_distribution">
+</p>
+<p align="center" >
+  <b>The position distribution of taxi in the early morning</b>
+</p>
 
-![video](./images/video.gif)
-The gif for postion distribution in each hour
+<p align="center">
+  <img width="600" src="./images/video.gif" alt="video">
+</p>
+<p align="center" >
+  <b>The gif for postion distribution in each hour</b>
+</p>
 
-![taxi_start2end](./images/taxi_start2end.png)
-Start to end distribution
+<p align="center">
+  <img width="600" src="./images/taxi_start2end.png" alt="taxi_start2end">
+</p>
+<p align="center" >
+  <b>Start to end distribution</b>
+</p>
 
-![region_distribution](./images/region_distribution.png)
-Heat map for position distribution of taxi
+<p align="center">
+  <img width="600" src="./images/region_distribution.png" alt="region_distribution">
+</p>
+<p align="center" >
+  <b>Heat map for position distribution of taxi</b>
+</p>
